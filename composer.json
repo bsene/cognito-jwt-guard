@@ -1,5 +1,6 @@
 {
     "name": "bsene/cognito-jwt-guard",
+    "version": "0.2.0",
     "description": "A laravel auth guard for JSON Web Tokens issued by Amazon AWS Cognito",
     "type": "laravel",
     "keywords": [
@@ -66,4 +67,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
+    
 }
