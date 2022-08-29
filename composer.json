@@ -64,6 +64,6 @@
         "test": "vendor/bin/phpunit --testsuite Unit",
         "coveralls": "vendor/bin/php-coveralls -v"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
